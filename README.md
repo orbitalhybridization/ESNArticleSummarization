@@ -18,16 +18,10 @@ The method doesn't work great currently, and likely needs some tuning / restruct
  - *Hyperparameter Tuning.* Likely need a sweep of hyperparameters for memory (leak rate) and spectral radius.
 
 ## Examples
-
-| Original Summary   | Reservoir Prediction |
-|--------------------|----------------------|
-| "downing of plane slows sri lanka 's army onslaught on jaffna by amal jayasinghe"
-                   | 'korea: soldiers in the field of battle in korea.korea.malaysia.indonesia.jakarta.malayas.korean army.kamikaze.kampani.'
-                      |
-| "do n't blame pakistan for poor test ticket sales says manager"
-                   | ' takfisk on govt, but on a number of other things.'
-                     |
-| 'rumsfeld calls zarqawi death significant victory'
-                   |'Finance Minister of the Bank of Japan (BoT) says it will bring into an aero-mono plan of an omer-Tobel at the end of the year. e.t.m.e in'
-                      |
+| Original Summary                                                         | Reservoir Prediction                                                                                 |
+|--------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------|
+| downing of plane slows sri lanka 's army onslaught on jaffna by amal jayasinghe | korea: soldiers in the field of battle in korea.korea.malaysia.indonesia.jakarta.malayas.korean army.kamikaze.kampani. |
+| do n't blame pakistan for poor test ticket sales says manager             | takfisk on govt, but on a number of other things.                                                     |
+| rumsfeld calls zarqawi death significant victory                         | Finance Minister of the Bank of Japan (BoT) says it will bring into an aero-mono plan of an omer-Tobel at the end of the year. e.t.m.e in |
+|                                                                          |                                                                                                      |
 

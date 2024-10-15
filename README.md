@@ -13,7 +13,7 @@ Using echo state networks (ESNs) for article summarization using the GigaWord da
 4. Decode predicted embeddings as text
 
 The method doesn't work great currently, and likely needs some tuning / restructuring. Some potential issues include:
- - *Non-representative embedding space.* BERT embeddings are useful, but something more semantically rich for entities like Wikipedia2Vec might be better
+ - *Embedding space.* BERT embeddings are useful because they can be decoded back into text, but something more representative for both words and entities (e.g., Wikipedia2Vec) might be better
  - *Masking.* Might be better to mask or omit some words. Also some words in Gigaword are masked (e.g., # for numbers and UNK for unknown)
  - *Hyperparameter Tuning.* Likely need a sweep of hyperparameters for memory (leak rate) and spectral radius.
 
